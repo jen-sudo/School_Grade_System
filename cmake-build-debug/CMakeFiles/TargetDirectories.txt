@@ -1,0 +1,3 @@
+C:/Users/Jennifer/OneDrive/Desktop/School-Grade-System/cmake-build-debug/CMakeFiles/School_Grade_System.dir
+C:/Users/Jennifer/OneDrive/Desktop/School-Grade-System/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Jennifer/OneDrive/Desktop/School-Grade-System/cmake-build-debug/CMakeFiles/rebuild_cache.dir
